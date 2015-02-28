@@ -1,4 +1,4 @@
-# glocalnews.js
+# glocalnews.js [visit web app](http://glocalne.ws)
 localized Google News on top of Google Maps
 
 ## About 
