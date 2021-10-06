@@ -1,5 +1,5 @@
-# glocalnews.js [visit web app](http://glocalne.ws)
-localized Google News on top of Google Maps
+# glocalnews.js
+localized Google News on top of Google Maps **(web app now defunct due to API closure)**
 
 ## About 
 Glocal News is a Google News mashup on top of Google Maps. We combined those services in order to display the top 5 news of every place on earth, from the largest country to the tiniest village, adjusting the results by taking into account your language of preference.
